@@ -1,0 +1,21 @@
+{
+  "name": "DriveZen - AI Driver Patience Companion",
+  "short_name": "DriveZen",
+  "description": "Promoting safer, calmer driving habits with AI-driven patience scoring.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
